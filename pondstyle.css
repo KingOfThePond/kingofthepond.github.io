@@ -14,7 +14,16 @@ Defaults for all
 }
 
 table.team {
+  background-color: #E3F2FD;
+  border: none;
+  border-radius: 5px;
+}
+
+table.team tr td{
   color: rgba(0,0,0,.87);
   background-color: #E3F2FD;
-  border-radius: 5px;
+}
+
+table.team tr td.title {
+  background-color: #1E88E5;
 }
