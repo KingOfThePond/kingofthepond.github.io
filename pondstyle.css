@@ -10,5 +10,11 @@ Defaults for all
   font-family: Arial;
   color: white;
   background-color: #2196F3;
-  
+
+}
+
+table.team {
+  color: rgba(0,0,0,.87);
+  background-color: #E3F2FD;
+  border-radius: 5px;
 }
